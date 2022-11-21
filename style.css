@@ -1,9 +1,13 @@
 body {
-    background: #f39ffc;
+   
 }
 
 #banner {
     width: 100%;
+}
+
+.principal{
+    background: #f39ffc;
 }
 
 h1{
